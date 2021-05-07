@@ -8,8 +8,10 @@
           >
             <h1 class="title">Welcome To Our World Of Fun</h1>
             <h4>
-             I am a 23-year-old, “Computer Scientist”, who never loses the desire to learn and improve his talents.
-I always look for new challenges, those which will make best use of my existing skills and experience and also further my development and knowledge.  
+              I am a 23-year-old, “Computer Scientist”, who never loses the
+              desire to learn and improve his talents. I always look for new
+              challenges, those which will make best use of my existing skills
+              and experience and also further my development and knowledge.
             </h4>
             <br />
             <md-button href="" class="md-success md-lg" target="_blank"
@@ -31,7 +33,7 @@ I always look for new challenges, those which will make best use of my existing 
                 Lorem ipsum dolor sit amet consectetur, adipisicing elit.
                 Temporibus facere quam numquam itaque ad aperiam dicta nihil,
                 repellendus ducimus odio similique eligendi, laudantium
-                doloribus. Tenetur eligendi culpa iusto at autem.
+                doloribus.
               </h5>
             </div>
           </div>
@@ -42,13 +44,12 @@ I always look for new challenges, those which will make best use of my existing 
                   <div class="icon icon-info">
                     <md-icon>chat</md-icon>
                   </div>
-                  <h4 class="info-title">Yaman</h4>
+                  <h4 class="info-title">Support</h4>
                   <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Adipisci enim obcaecati repellat. Dignissimos doloremque
-                    libero repudiandae nostrum molestias quos, totam aperiam.
-                    Dolor dicta pariatur, ad ipsum voluptas nemo tempora.
-                    Possimus?
+                    - Cross Platform Mobile Applications (Flutter) - Building
+                    websites using trend technologies - Maintaining websites
+                    using Joomla and WordPress - Projects for individuals on
+                    freelancing platforms - Graphic Designs
                   </p>
                 </div>
               </div>
@@ -57,12 +58,12 @@ I always look for new challenges, those which will make best use of my existing 
                   <div class="icon icon-success">
                     <md-icon>verified_user</md-icon>
                   </div>
-                  <h4 class="info-title">Yaman</h4>
+                  <h4 class="info-title">Trust</h4>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                    Nobis eveniet dolor voluptas facere, corporis est voluptates
-                    placeat pariatur modi, numquam architecto, impedit vitae ea.
-                    Molestias, commodi amet. Nobis, iste numquam.
+                    - Cross Platform Mobile Applications (Flutter) - Building
+                    websites using trend technologies - Maintaining websites
+                    using Joomla and WordPress - Projects for individuals on
+                    freelancing platforms - Graphic Designs
                   </p>
                 </div>
               </div>
@@ -71,12 +72,12 @@ I always look for new challenges, those which will make best use of my existing 
                   <div class="icon icon-danger">
                     <md-icon>fingerprint</md-icon>
                   </div>
-                  <h4 class="info-title">Yaman</h4>
+                  <h4 class="info-title">Secured</h4>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                    Molestias perferendis eius eligendi dolor nam est eum aut
-                    tempore adipisci nisi vero enim ut consequatur rem, facere
-                    voluptatum totam perspiciatis quam.
+                    - Cross Platform Mobile Applications (Flutter) - Building
+                    websites using trend technologies - Maintaining websites
+                    using Joomla and WordPress - Projects for individuals on
+                    freelancing platforms - Graphic Designs
                   </p>
                 </div>
               </div>
@@ -93,21 +94,18 @@ I always look for new challenges, those which will make best use of my existing 
               <TeamMember
                 :src="teamImg1"
                 name="Yaman Alashqar"
-                position="Web Dev"
-                description="Lorem ipsum dolor sit, amet consectetur Lorem ipsum dolor sit, amet consectetur adipisicing elit.  elit.  "
+                position="Computer Scientist"
+                description="I am a 23-year-old, “Computer Scientist”, who never loses the desire to learn and improve his talents.
+I always look for new challenges, those which will make best use of my existing skills and experience and also further my development and knowledge."
               />
               <TeamMember
                 :src="teamImg2"
-                name="Yaman Omar"
-                position="Web Dev"
-                description="test Lorem ipsum dolor sit, amet consectetur adipisicing elit.  "
+                name="Mousa Sandoqa"
+                position="GIS Developer"
+                description="I am a 23-year-old, “GIS Developer”, who never loses the desire to learn and improve his talents.
+I always look for new challenges, those which will make best use of my existing skills and experience and also further my development and knowledge."
               />
-              <TeamMember
-                :src="teamImg3"
-                name="Yaman Omar Alashqar"
-                position="Web Dev"
-                description="Lorem ipsum dolor sit, amet consectetur adipisicing elit.  "
-              />
+
             </div>
           </div>
         </div>
@@ -116,12 +114,11 @@ I always look for new challenges, those which will make best use of my existing 
         <div class="container">
           <div class="md-layout">
             <div class="md-layout-item md-size-66 md-xsmall-size-100 mx-auto">
-              <h2 class="text-center title">Form Example</h2>
+              <h2 class="text-center title">Get In Touch</h2>
               <h4 class="text-center description">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad ea
                 deleniti ipsum, consequuntur distinctio commodi, vero cupiditate
-                porro fugit ex perferendis voluptatibus sequi nam voluptas sit,
-                temporibus est aperiam blanditiis!
+                porro fugit ex perferendis.
               </h4>
               <form class="contact-form">
                 <div class="md-layout">
@@ -177,7 +174,7 @@ export default {
     },
     teamImg2: {
       type: String,
-      default: require("@/assets/img/faces/Yaman.jpg"),
+      default: require("@/assets/img/faces/Mousa.jpg"),
     },
     teamImg3: {
       type: String,
@@ -212,5 +209,10 @@ export default {
 
 .md-has-textarea + .md-layout {
   margin-top: 15px;
+}
+
+.page-header h4,
+.page-header h1 {
+  text-shadow: 2px 2px 2px #616161;
 }
 </style>
