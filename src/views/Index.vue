@@ -8,10 +8,9 @@
           >
             <h1 class="title">Welcome To Our World Of Fun</h1>
             <h4>
-              I am a 23-year-old, “Computer Scientist”, who never loses the
-              desire to learn and improve his talents. I always look for new
-              challenges, those which will make best use of my existing skills
-              and experience and also further my development and knowledge.
+              Design is intelligence made visible. All the mapping
+              features most developers ever need, it is designed with
+              simplicity, performance and usability in mind. Built Using Vue JS and Material Design
             </h4>
             <br />
             <md-button href="" class="md-success md-lg" target="_blank"
@@ -105,7 +104,6 @@ I always look for new challenges, those which will make best use of my existing 
                 description="I am a 23-year-old, “GIS Developer”, who never loses the desire to learn and improve his talents.
 I always look for new challenges, those which will make best use of my existing skills and experience and also further my development and knowledge."
               />
-
             </div>
           </div>
         </div>
