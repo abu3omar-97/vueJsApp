@@ -19,7 +19,7 @@
           </li>
           <li>
             <a href="">
-              Blog
+              Products
             </a>
           </li>
         </ul>

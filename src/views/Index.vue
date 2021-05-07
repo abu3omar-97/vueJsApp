@@ -6,12 +6,9 @@
           <div
             class="md-layout-item md-size-50 md-small-size-70 md-xsmall-size-100"
           >
-            <h1 class="title">Landing Page</h1>
+            <h1 class="title">Welcome To Our World</h1>
             <h4>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-              Blanditiis, odio pariatur. Placeat at accusantium repudiandae nam
-              doloremque dolorum fugit fuga! Sunt facere veritatis harum facilis
-              pariatur, maiores voluptatibus numquam! Officiis?
+             Holding The Hands That Hold The Future ... 
             </h4>
             <br />
             <md-button href="" class="md-success md-lg" target="_blank"
