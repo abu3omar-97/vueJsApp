@@ -74,7 +74,7 @@ export default {
   computed: {
     headerStyle() {
       return {
-        backgroundImage: `url(${this.header})`,
+        backgroundImage: `linear-gradient(rgb(12 12 12 / 38%), rgb(3 4 3 / 33%)), url(${this.header})`,
       };
     },
   },
