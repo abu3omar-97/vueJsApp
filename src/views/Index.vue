@@ -6,9 +6,10 @@
           <div
             class="md-layout-item md-size-50 md-small-size-70 md-xsmall-size-100"
           >
-            <h1 class="title">Welcome To Our World</h1>
+            <h1 class="title">Welcome To Our World Of Fun</h1>
             <h4>
-             Holding The Hands That Hold The Future ... 
+             I am a 23-year-old, “Computer Scientist”, who never loses the desire to learn and improve his talents.
+I always look for new challenges, those which will make best use of my existing skills and experience and also further my development and knowledge.  
             </h4>
             <br />
             <md-button href="" class="md-success md-lg" target="_blank"
